@@ -1,7 +1,7 @@
-# animation
+# Animation In Flutter Step-up Flutter
 
-A new Flutter project.
-
+![demo](player_1.gif)
+ 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
